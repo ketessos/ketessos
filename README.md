@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ketelin Passos</h1>
+<h1 align="center">Hi, I'm Ketelin Passos</h1>
 <h3 align="center">A passionate software engineer from Brasil</h3>
 
 - 🔭 I’m currently working on [Spots](https://github.com/ketessos/se_project_spots.git)
