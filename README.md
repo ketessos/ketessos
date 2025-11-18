@@ -49,7 +49,7 @@ I'm building a strong foundation to become a **Junior Software Engineer** by the
 My long-term goals:
 
 - Land my **first tech internship** in 2026/2027  
-- Finish my **AS Computer Science**  
+- Finish my **AS Computer Science** Degree
 - Transfer to **Denver University** for my BS in Computer Science  
 - Complete my **Master’s in Machine Learning**  
 
