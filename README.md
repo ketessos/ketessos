@@ -11,8 +11,6 @@ I'm growing as a **full-stack web developer** and **future cybersecurity profess
 - 💻 Web Development: HTML, CSS, JavaScript, React, Node.js  
 - 🌎 Languages: Portuguese | English | Spanish (learning Korean soon!)
 
----
-
 ## 🚀 Projects I’m Proud Of
 Here are a few hands-on projects I've been building:
 
