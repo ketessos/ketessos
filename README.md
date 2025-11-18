@@ -48,8 +48,8 @@ Here are a few hands-on projects I've been building:
 I'm building a strong foundation to become a **Junior Software Engineer** by the end of my studies.  
 My long-term goals:
 
-- Land my **first tech job** in 2026/2027  
-- Finish my **AAS in Secure Software Development**  
+- Land my **first tech internship** in 2026/2027  
+- Finish my **AS Computer Science**  
 - Transfer to **Denver University** for my BS in Computer Science  
 - Complete my **Master’s in Machine Learning**  
 
