@@ -3,13 +3,31 @@
 
 - 🔭 I’m currently working on [Spots](https://github.com/ketessos/se_project_spots.git)
 
-- 🌱 I’m currently learning **JavaScript, CSS, HTML, GIT, GitHub, Figma**
+- 🎓 Software Engineering Student at **TripleTen**
 
 - 👨‍💻 All of my projects are available at [https://github.com/account](https://github.com/account)
 
 - 📫 How to reach me **ketelincorpus@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+-  🌎 Languages: Portuguese | English | Spanish (learning Korean soon!)
+
+## 🎯 My Future Goals
+I'm building a strong foundation to become a **Junior Software Engineer** by the end of my studies.  
+My long-term goals:
+
+- Land my **first tech job** in 2026/2027  
+- Finish my **AAS in Secure Software Development**  
+- Transfer to **Denver University** for my BS in Computer Science  
+- Complete my **Master’s in Machine Learning**  
+
+## 💡 About Me  
+- ☕ I love study sessions in cute coffee shops  
+- 🌍 I dream of living in many different countries (France, South Korean, Thailand)  
+- 📚 I like to read a lot books from personal growth to fantasys
+- 💪 On a long jouney to improve my health  
+- 🌱 Big believer in self-improvement  
+
+## 📫 Connect with Me  
 <p align="left">
 <a href="https://linkedin.com/in/ketelin passos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ketelin passos" height="30" width="40" /></a>
 <a href="https://fb.com/ketelin passos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ketelin passos" height="30" width="40" /></a>
