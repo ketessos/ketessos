@@ -1,15 +1,48 @@
-<h1 align="center">Hi, I'm Ketelin Passos</h1>
-<h3 align="center">A passionate software engineer from Brasil</h3>
+# 👋 Hi, I'm Ketelin Passos
 
-- 🔭 I’m currently working on [Spots](https://github.com/ketessos/se_project_spots.git)
+### 🇧🇷 Born in Brazil → 🇺🇸 Living in Colorado  
+I moved to the U.S. in April 2022 to follow my dreams, grow, and build a new life. I’m passionate about learning, improving myself, and creating things that make life easier (and prettier ✨).
 
-- 🎓 Software Engineering Student at **TripleTen**
+## 🌱 Currently Learning  
+I'm growing as a **full-stack web developer** and **future cybersecurity professional** while completing my college degree.
 
-- 👨‍💻 All of my projects are available at [https://github.com/account](https://github.com/account)
+- 🎓 **AS in Computer Science** student at Red Rocks Community College  
+- 🎓 Software Engineering Student at **TripleTen**  
+- 💻 Web Development: HTML, CSS, JavaScript, React, Node.js  
+- 🌎 Languages: Portuguese | English | Spanish (learning Korean soon!)
 
-- 📫 How to reach me **ketelincorpus@gmail.com**
+---
 
--  🌎 Languages: Portuguese | English | Spanish (learning Korean soon!)
+## 🚀 Projects I’m Proud Of
+Here are a few hands-on projects I've been building:
+
+### 📸 Spots — Image Sharing Website  
+*Full-stack learning project focused on user interactions.*  
+👉 **[View Repository](https://github.com/ketessos/se_project_spots)**  
+✔️ Modular JavaScript  
+✔️ Form validation  
+✔️ Dynamic UI components
+
+### 🌱 Eco Challenge Website  
+*Website that generates daily challenges and collects user info through a clean, simple form.*  
+👉 **[View Repository](https://github.com/ketessos/se_project_eco-challenge)**  
+✔️ Home page with generated daily tip  
+✔️ Challenge form (name, location, challenge)  
+✔️ Modern layout + responsive design  
+✔️ Built with HTML, CSS, JavaScript
+
+### 🌿 Coffee Shop Website  
+*Responsive website built with HTML, CSS, and JavaScript.*  
+👉 **[View Repository](https://github.com/ketessos/se_project_coffeeshop)**  
+✔️ Responsive design  
+✔️ Clean structure and reusable components
+
+### ✅ To-Do App  
+*Simple productivity app built with vanilla JavaScript.*  
+👉 **[View Repository](https://github.com/ketessos/se_project_todo-app)**  
+✔️ DOM manipulation  
+✔️ Local storage  
+✔️ Beginner-friendly structure
 
 ## 🎯 My Future Goals
 I'm building a strong foundation to become a **Junior Software Engineer** by the end of my studies.  
@@ -28,11 +61,8 @@ My long-term goals:
 - 🌱 Big believer in self-improvement  
 
 ## 📫 Connect with Me  
-<p align="left">
-<a href="https://linkedin.com/in/ketelin passos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ketelin passos" height="30" width="40" /></a>
-<a href="https://fb.com/ketelin passos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ketelin passos" height="30" width="40" /></a>
-<a href="https://instagram.com/ketessos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ketessos" height="30" width="40" /></a>
-</p>
+- **LinkedIn:** www.linkedin.com/in/ketelin-passos-459b7025b  
+- **GitHub:** github.com/ketessos
 
 <h3 align="left">Languages and Tools:</h3>
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
