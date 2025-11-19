@@ -23,7 +23,7 @@ Here are a few hands-on projects I've been building:
 
 ### 🌱 Eco Challenge Website  
 *Website that generates daily challenges and collects user info through a clean, simple form.*  
-👉 **[View Repository](https://github.com/ketessos/se_project_eco-challenge)**  
+👉 **[View Repository](https://github.com/ketessos/eco-challenge.git)**  
 ✔️ Home page with generated daily tip  
 ✔️ Challenge form (name, location, challenge)  
 ✔️ Modern layout + responsive design  
